@@ -1,0 +1,26 @@
+summary
+
+project
+
+component
+
+version
+
+severity
+
+priority
+
+status
+
+author
+
+assigned to
+
+steps to reproduce
+
+result
+
+expected result
+
+attachment
+
