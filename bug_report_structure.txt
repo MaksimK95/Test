@@ -23,7 +23,7 @@ discription
 
 steps to reproduce
 
-result
+actual result
 
 expected result
 
