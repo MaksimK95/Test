@@ -1,0 +1,30 @@
+
+summary
+
+project
+
+app component
+
+version number
+
+severity
+
+priority
+
+status
+
+author
+
+assigned to
+
+surrounding
+
+discription
+
+steps to reproduce
+
+actual result
+
+expected result
+
+attachment
