@@ -1,0 +1,22 @@
+Regetration
+
+Email
+Social networks
+Field validation
+
+Authorization
+
+user activated
+user not activated
+password restoration
+field validation
+
+Profile
+
+name change
+email change
+password change
+fields validation
+subcribe
+remove  account
+
